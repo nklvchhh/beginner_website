@@ -2,8 +2,4 @@
 
 ### I can't wait to see what you create!
 
-emoji-mosaic-4.jpg
-
-**I hope you have so much fun creating your website!**
-
-*name*
+a13e069a8fa001ceef862c86bbea6d8aa3c1op
