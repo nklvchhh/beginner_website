@@ -2,4 +2,4 @@
 
 ### I can't wait to see what you create!
 
-emoji-mosaic-4.jpg
+{emoji-mosaic-4.jpg}
